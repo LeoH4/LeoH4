@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 # About Me:
-Amateure game developer and programmer
+Amateur game developer and programmer
 
 ### Currently working on:
 - Making games in Unity
@@ -10,6 +10,7 @@ Amateure game developer and programmer
 ### I'm currently learning:
 - Bash
 - Quick shell
+- C#
 
 ### Outside of coding I enjoy:
 
