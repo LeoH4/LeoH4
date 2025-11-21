@@ -12,12 +12,6 @@ Amateur game developer and programmer
 - Quick shell
 - C#
 
-### Outside of coding I enjoy:
-
-- Playing video games :video_game:
-- Drawing 🎨
-- Hiking 🥾
-
 # 💻 Tech Stack:
 <b><p> Programming Languages: </p></b>
 
